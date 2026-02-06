@@ -20,7 +20,7 @@ cursor = db.cursor()
 # -----------------------------
 VEHICLE_IDS = [101, 102, 201, 202]   # existing vehicles
 MAX_CAPACITY = 50                   # assumed max capacity
-INTERVAL = 10                       # seconds
+INTERVAL = 60                       # seconds
 
 print("🚍 UrbanFlow Crowd Simulator Started...\n")
 
